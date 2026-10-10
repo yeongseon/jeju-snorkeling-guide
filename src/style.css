@@ -113,6 +113,7 @@ p {
 }
 main {
 	min-height: 72vh;
+	padding-bottom: 72px;
 }
 .hero {
 	display: grid;
@@ -541,13 +542,6 @@ main {
 	color: var(--muted);
 	margin: 0;
 }
-.source-note {
-	border-top: 1px solid var(--line);
-	padding: 28px 0 70px;
-	color: var(--muted);
-	font-size: 14px;
-	margin-top: 44px;
-}
 .progress-wrap {
 	background: var(--sea-pale);
 	border-radius: 16px;
@@ -649,19 +643,6 @@ main {
 }
 .safety-list p {
 	margin: 0;
-}
-.site-footer {
-	border-top: 1px solid var(--line);
-	padding: 32px 0;
-	background: white;
-}
-.site-footer strong {
-	font-size: 17px;
-}
-.site-footer p {
-	font-size: 13px;
-	color: var(--muted);
-	margin: 8px 0 0;
 }
 @media (max-width: 780px) {
 	.shell {
@@ -776,8 +757,8 @@ main {
 	.empty-result {
 		padding: 28px;
 	}
-	.site-footer {
-		padding-bottom: 92px;
+	main {
+		padding-bottom: 132px;
 	}
 }
 @media (prefers-reduced-motion: reduce) {
