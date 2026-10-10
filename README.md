@@ -2,7 +2,7 @@
 
 HRA 19기 2조의 「제주 초행자를 위한 제주 스노클링 가이드북」을 바탕으로 만든 정적 웹서비스다. HRA 20기 바이브코딩 수업에서 PRD → UX/UI → 구현 → 확인 → 배포를 실제 화면으로 보여 주기 위한 기준 버전이다.
 
-- 공개 사이트: https://yeongseon.github.io/jeju-snorkeling-guide/
+- 공개 사이트: https://yeongseon.dev/jeju-snorkeling-guide/
 - 코드 저장소: https://github.com/yeongseon/jeju-snorkeling-guide
 
 ## 실행
